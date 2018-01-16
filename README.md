@@ -1,14 +1,16 @@
 # NAME
 
-iq - It's new $module
+iq - decrement IQ for your perl applciation
 
 # SYNOPSIS
 
-    use iq;
+    no iq;
+
+    do_something; # it makes slowly
 
 # DESCRIPTION
 
-iq is ...
+iq is an Acme (joking) pragma.
 
 # LICENSE
 

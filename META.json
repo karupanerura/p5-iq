@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "decrement IQ for your perl applciation",
    "author" : [
       "karupanerura <karupa@cpan.org>"
    ],
@@ -42,7 +42,7 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008001"
+            "perl" : "5.009005"
          }
       },
       "test" : {
@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/karupanerura/p5-iq/issues"
+      },
+      "homepage" : "https://github.com/karupanerura/p5-iq",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/karupanerura/p5-iq.git",
+         "web" : "https://github.com/karupanerura/p5-iq"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:KARUPA",
    "x_serialization_backend" : "JSON::PP version 2.97001"
